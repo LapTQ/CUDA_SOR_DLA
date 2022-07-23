@@ -1,1 +1,1 @@
-# CUDA_SOR_DLA
+# CUDA
